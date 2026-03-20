@@ -1,2 +1,3 @@
-# modern-weather-app-qo2c
-Automated issue comment bot repository
+# Modern Weather App Qo2C
+
+Automated issue comment bot repository.
